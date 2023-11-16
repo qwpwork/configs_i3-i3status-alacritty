@@ -1,0 +1,31 @@
+font:
+    normal:
+      family: "Cascadia Code"
+    bold:
+      family: "Cascadia Code"
+    italic:
+      family: "Cascadia Code"
+
+    size: 12
+
+# Colors (One Dark - https://github.com/atom/atom/tree/master/packages/one-dark-syntax)
+
+cursor:
+  # Cursor style
+  style:
+    # Cursor shape
+    #
+    # Values for `shape`:
+    #   - ▇ Block
+    #   - _ Underline
+    #   - | Beam
+    shape: Block
+ 
+    # Cursor blinking state
+    #
+    # Values for `blinking`:
+    #   - Never: Prevent the cursor from ever blinking
+    #   - Off: Disable blinking by default
+    #   - On: Enable blinking by default
+    #   - Always: Force the cursor to always blink
+    blinking: On
